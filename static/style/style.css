@@ -1,4 +1,10 @@
+@font-face {
+	font-family: poppins-regular;
+	src: url("/static/font/poppins_regular.ttf");
+}
+
 body {
+	font-family: poppins-regular, sans-serif;
 	background-color: #e6e6e6;
 	margin: 0;
 	padding: 0;
