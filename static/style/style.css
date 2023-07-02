@@ -156,7 +156,7 @@ blockquote {
 	border-left: 2px dashed rgba(80,160,160,1.0);
 	line-height: 1.6;
 	/* background-color: #2e2e2e; */
-	background-color: #030303;
+	/* background-color: #030303; */
 	/* color: #ddd; */
 	margin: auto;
 	overflow-wrap: break-word;
