@@ -67,7 +67,8 @@ address {
 /* Width Content */
 /* ---------------------------------------- */
 .width-content {
-	word-break: break-all;
+	/* word-break: break-all; */
+	overflow-wrap: break-word;
 }
 
 .width-content > p {
